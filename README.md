@@ -11,7 +11,7 @@ that might be affects customer to churn**.
 ● **Time Series Analysis** and **forecasting**
 
 # Data
- Dataset was provided by Careefoundry
+ Dataset was provided by Careerfoundry
 
 # Tools 
 ● **Excel** for data analysis, cleaning and create time series 
