@@ -40,7 +40,7 @@ that might be affects customer to churn.
     - average estimated salary 100K.
     - 204 clients left. 59.3% of clients leaving are Female (Percentages of female per country: 66% in FR, 60% in ES and 52% in DE)
 
-
+![Captura de pantalla 2024-10-28 170521](https://github.com/user-attachments/assets/a80ac0cd-bcfd-4cb9-9993-d1e453b67d85)
 
 # DECISION TREE: 
 By Using the information uncovered create a decision tree to determine the probability of customers leaving the bank.
