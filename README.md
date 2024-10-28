@@ -7,7 +7,9 @@ that might be affects customer to churn.
 
 # Techniques
 ● **Data Mining** to extract the relevant information
+
 ● **Predictive analysis**
+
 ● **Time Series Analysis** and **forecasting**
 
 # Data
@@ -21,7 +23,7 @@ that might be affects customer to churn.
 # DECISION TREE: 
 By Using the information uncovered create a decision tree to determine the probability of customers leaving the bank.
 
-
+![Captura de pantalla 2024-10-28 165700](https://github.com/user-attachments/assets/6c90133f-bff4-4fbc-b615-1ba961c8d482)
 
 # FACTORS THAT CONTRIBUTE TO CLIENT LOSS
 
