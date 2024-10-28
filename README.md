@@ -22,6 +22,26 @@ that might be affects customer to churn.
 
 ● **GitHub**
 
+# DATA MINING
+1. **Client that stayed** in the bank had the following profile:
+   
+   - Remain an average of 5 years, with a Credit score of 657, average age of 36 years old,
+   - 50% are active members,
+   - They enabled 2 products,
+   - an average balance 93K and an average Estimated salary 98K.
+   - 787 clients stayed, Male clients are staying more than female (percentage of Male clients staying : 56.54% ( per country: DE 53%, ES 54% and 59% FR)
+
+
+3. **Client that churned** in the bank had the following profile: 
+- Had only 1 product,
+- Average age 45 years old,
+- average balance 112K,
+- only 25% are active members,
+- average estimated salary 100K.
+- 204 clients left. 59.3% of clients leaving are Female (Percentages of female per country: 66% in FR, 60% in ES and 52% in DE)
+
+
+
 # DECISION TREE: 
 By Using the information uncovered create a decision tree to determine the probability of customers leaving the bank.
 
