@@ -1,4 +1,4 @@
-![Captura de pantalla 2024-10-28 163737](https://github.com/user-attachments/assets/394db90c-9274-48ed-ae58-b94f2214272a)
+                         ![Captura de pantalla 2024-10-28 163737](https://github.com/user-attachments/assets/394db90c-9274-48ed-ae58-b94f2214272a)
 
  
 # Pig. E Bank 
@@ -62,6 +62,17 @@ By Using the information uncovered create a decision tree to determine the proba
 ●  Countries such as FR (66%) and ES (60%) have more exiting clients percentages than DE
 
 ●  The higher the balance the most likely to leave the bank
+
+
+# RECOMMENDATIONS: 
+
+- Increase customer engagement through loyalty programmes, personalized products and tailored communication. 
+- Promote product diversification amongs the customer base, with special focus on users with none or only one product. 
+- Enhanced personalized financial advisory services tailored for teh financial needs of customers with higher balances.
+- Develop financial products and services to the needs of customers over 45 years old. 
+
+
+
 
 
 
