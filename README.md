@@ -16,7 +16,7 @@ that might be affects customer to churn**.
 # Tools 
 ● **Excel** for data analysis, cleaning and create time series 
 
-● **Jupyter Notebook** (Python) for the Descriptive Analysis, Correlation visualizations and Identifying Risk Factors
+● **Python**(Jupyter Notebook)(https://github.com/carolmmiron/bank_time_series/blob/main/Script/Answers%205.4%20(1).ipynb). for the Descriptive Analysis, Correlation visualizations and Identifying Risk Factors
 
 ● **GitHub**
 
