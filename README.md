@@ -2,9 +2,36 @@
 
  
 # Pig. E Bank 
-Instacart, an **online grocery store** that operates through an app. The **task** is to perform an initial *data and exploratory analysis* of some of their data in order to derive insights and **suggest strategies for better segmentation** based on some provided criteria. [Data_Immersion_Project_Brief.pdf](https://github.com/user-attachments/files/16595746/A4_Data_Immersion_Project_Brief.pdf)
+ Pig E. Bank is a global bank dedicated to providing exceptional financial services. The goal of this project is to determined what is consider a risk factor 
+that might be affects customer to churn.
 
-# Key Questions
-● The sales team needs to know what **the busiest days of the week and hours of the
-day** are (i.e., the days and times with the most orders) in order to schedule ads at
-times when there are fewer orders.
+# Techniques
+● **Data Mining** to extract the relevant information
+● **Predictive analysis**
+● **Time Series Analysis** and **forecasting**
+
+# Data
+ Dataset was provided by Careefoundry
+
+# Tools 
+● **Excel** for data analysis, cleaning and create time series 
+● **Jupyter Notebook** (Python) for the Descriptive Analysis, Correlation visualizations and Identifying Risk Factors
+● **GitHub**
+
+# DECISION TREE: 
+By Using the information uncovered create a decision tree to determine the probability of customers leaving the bank.
+
+
+
+# FACTORS THAT CONTRIBUTE TO CLIENT LOSS
+
+●  The longer a client stays the more likely it is to leave. ( correlation between tenure and Client loyalty)
+●  Between 20 to 50 the tenure is stable around 6 years. After 50 to 60 fluctionations are abrupt, at 60 ther are important drops. However the tenure spikes are reflected around 70 years old.
+●  Active members are more likely to remain as a client.
+●  Clients with multiple products are more likely to remain as a loyal client.
+●  Gender seems to be a factor when losing clients. Spotting Female clients exiting more(59.3%)
+●  Countries such as FR (66%) and ES (60%) have more exiting clients percentages than DE
+●  The higher the balance the most likely to leave the bank
+
+
+
