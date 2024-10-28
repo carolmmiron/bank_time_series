@@ -33,12 +33,12 @@ that might be affects customer to churn.
 
 
 3. **Client that churned** in the bank had the following profile: 
-- Had only 1 product,
-- Average age 45 years old,
-- average balance 112K,
-- only 25% are active members,
-- average estimated salary 100K.
-- 204 clients left. 59.3% of clients leaving are Female (Percentages of female per country: 66% in FR, 60% in ES and 52% in DE)
+    - Had only 1 product,
+    - Average age 45 years old,
+    - average balance 112K,
+    - only 25% are active members,
+    - average estimated salary 100K.
+    - 204 clients left. 59.3% of clients leaving are Female (Percentages of female per country: 66% in FR, 60% in ES and 52% in DE)
 
 
 
