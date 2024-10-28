@@ -3,17 +3,17 @@
 **Pig E. Bank** is a global bank dedicated to providing exceptional financial services. The goal of this project is to **determined what is consider a risk factor 
 that might be affects customer to churn**.
 
-# Techniques
+# TECHNIQUES
 ● **Data Mining** to extract the relevant information
 
 ● **Predictive analysis**
 
 ● **Time Series Analysis** and **forecasting**
 
-# Data
+# DATA
  Dataset was provided by Careerfoundry
 
-# Tools 
+# TOOLS
 ● **Excel** for data analysis, cleaning and create time series 
 
 ● **Python** [Jupyter Notebook](https://github.com/carolmmiron/bank_time_series/blob/main/Script/Answers%205.4%20(1).ipynb). for the Descriptive Analysis, Correlation visualizations and Identifying Risk Factors
