@@ -1,4 +1,4 @@
- (![Captura de pantalla 2024-10-28 163737](https://github.com/user-attachments/assets/394db90c-9274-48ed-ae58-b94f2214272a)
+![Captura de pantalla 2024-10-28 163737](https://github.com/user-attachments/assets/394db90c-9274-48ed-ae58-b94f2214272a)
 
  
 # Pig. E Bank 
