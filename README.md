@@ -1,6 +1,7 @@
 ![Captura de pantalla 2024-10-28 163737](https://github.com/user-attachments/assets/394db90c-9274-48ed-ae58-b94f2214272a)
- Pig E. Bank is a global bank dedicated to providing exceptional financial services. The goal of this project is to determined what is consider a risk factor 
-that might be affects customer to churn.
+
+**Pig E. Bank** is a global bank dedicated to providing exceptional financial services. The goal of this project is to **determined what is consider a risk factor 
+that might be affects customer to churn**.
 
 # Techniques
 ● **Data Mining** to extract the relevant information
